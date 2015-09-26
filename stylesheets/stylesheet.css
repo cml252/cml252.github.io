@@ -2,10 +2,10 @@ body {
   margin: 0;
   padding: 0;
   background: #151515 url("../images/bkg.png") 0 0;
-  color: #eaeaea;
-  font: 16px;
+  color: white;
+  font: 20px;
   line-height: 1.5;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Monotype Corsiva", Terminal, monospace;
 }
 
 /* General & 'Reset' Stuff */
@@ -49,7 +49,7 @@ header h1 {
   margin: 0 0 0 -40px;
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: #b5e853;
+  color: aqua;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
@@ -89,7 +89,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: #b5e853;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.04em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
@@ -108,11 +108,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #main_content h4 {
-  font-size: 14px;
+  font-size: 16px;
 }
 
 #main_content h5 {
-  font-size: 12px;
+  font-size: 14px;
   text-transform: uppercase;
   margin: 0 0 5px 0;
 }
@@ -227,7 +227,7 @@ hr {
 */
 
 a {
-  color: #63c0f5;
+  color: white;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
